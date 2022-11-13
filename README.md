@@ -12,7 +12,7 @@ In this project I investigated the three different architectures (AlexNet, VGG, 
 
 ## Results Table
 
-<div align="center">
+<div align="left">
 
 | # Total Images        |   40  |
 |-----------------------|:-----:|
@@ -22,7 +22,7 @@ In this project I investigated the three different architectures (AlexNet, VGG, 
 </div>
 
 
-<div align="center">
+<div align="left>
 
 |   CNN Model Architecture: |   % Not-a-Dog Correct |   % Dogs Correct      |   % Breeds Correct    |   % Match Correct     |
 |---------------------------|:---------------------:|-----------------------|-----------------------|-----------------------|
