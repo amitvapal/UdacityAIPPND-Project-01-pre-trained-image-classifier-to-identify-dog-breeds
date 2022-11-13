@@ -21,8 +21,7 @@ In this project I investigated the three different architectures (AlexNet, VGG, 
 
 </div>
 
-
-<div align="left>
+<div align="left">
 
 |   CNN Model Architecture: |   % Not-a-Dog Correct |   % Dogs Correct      |   % Breeds Correct    |   % Match Correct     |
 |---------------------------|:---------------------:|-----------------------|-----------------------|-----------------------|
