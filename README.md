@@ -1,6 +1,8 @@
 # Udacity AI Programming with Python Project
 
-### I completed this project during 2020 summer holidays at [Udacity](https://udacity.com).
+## Project-01: Pre-trained image classifier to identify Dog Breeds
+#### I completed this project during 2020 summer holidays at [Udacity](https://udacity.com). 
+
 
 In this project I used given python Image Classifier to Identify dog to make sure dog show participants are real dogs.
 Determined which image classification algorithms works the “best” on classifying images as “dogs” or “not dogs”. 
